@@ -582,7 +582,7 @@ breedSelect.addEventListener("change", ()=>{
 });
 fetchBreeds();
 
-},{"axios":"jo6P5","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","slim-select":"lzHUr","notiflix":"5z0Oc"}],"jo6P5":[function(require,module,exports) {
+},{"axios":"jo6P5","slim-select":"lzHUr","notiflix":"5z0Oc","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"jo6P5":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "default", ()=>(0, _axiosJsDefault.default));
